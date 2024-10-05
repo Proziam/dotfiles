@@ -1,0 +1,8 @@
+# Convert to Whitelist mode
+*
+!*/
+
+# Track These
+!.gitignore
+!nvim/**
+!rofi/**
