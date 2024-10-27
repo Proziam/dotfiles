@@ -4,6 +4,7 @@
 
 # Track These
 !.gitignore
+!alacritty/**
 !nvim/**
 !rofi/**
 !espanso/**

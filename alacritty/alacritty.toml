@@ -1,0 +1,12 @@
+general.import = [
+    "~/.config/alacritty/themes/themes/gruvbox_material_hard_dark.toml"
+]
+
+[font]
+normal = { family = "MonaspaceNeon", style = "Regular" }
+bold = { family = "MonaspaceNeon", style = "Bold" }
+italic = { family = "MonaspaceNeon", style = "Italic" }
+bold_italic = { family = "MonaspaceNeon", style = "Bold Italic" }
+size = 12.0
+
+
